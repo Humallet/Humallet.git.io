@@ -56,7 +56,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 #menu {
   width: 200px;
   margin: 50px;
-  height: auto;
+  height: 100px;
 }
 
 #menu h1 {
