@@ -76,7 +76,9 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   flex-direction: row;
   height: 100%;
 }
-
+#menu, #menu ul {
+  box-sizing: border-box;
+}
 #menu li {
   margin: 0;
   padding: 0;
